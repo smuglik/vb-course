@@ -1,0 +1,21 @@
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.vbprojAssemblyReference.cache
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\_1.Form1.resources
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\_1.Resources.resources
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.vbproj.GenerateResource.cache
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\bin\Debug\1.exe.config
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\bin\Debug\1.exe
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\bin\Debug\1.pdb
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\bin\Debug\1.xml
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.exe
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.xml
+Z:\223\Смуглиенко Харченко\Лабораторная 8\1\1\obj\Debug\1.pdb
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.vbproj.AssemblyReference.cache
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.vbproj.SuggestedBindingRedirects.cache
+D:\Basic\Лабораторная 8\1\1\obj\Debug\_1.Form1.resources
+D:\Basic\Лабораторная 8\1\1\obj\Debug\_1.Resources.resources
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.vbproj.GenerateResource.cache
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.exe
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.xml
+D:\Basic\Лабораторная 8\1\1\obj\Debug\1.pdb
